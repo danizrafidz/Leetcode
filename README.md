@@ -10,11 +10,11 @@
 
 | Problem | Solution | Difficulty |
 | ------------- |:-------------:| -----:|
-| [217. Contains Duplicate](https://leetcode.com/problemsa/contains-duplicate) | [❌](https://github.com/danizrafidz/Leetcode/blob/main/dsa1-array-%26-hashing/217.contains-duplicate.js) | $${\color{#00af9b}Easy}$$ |
-| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram) | [❌](https://github.com/danizrafidz/Leetcode/blob/main/dsa1-array-%26-hashing/242.valid-anagram.js) | $${\color{#00af9b}Easy}$$ |
-| [1. Two Sum](https://leetcode.com/problems/two-sum/description) | [❌](https://github.com/danizrafidz/Leetcode/blob/main/dsa1-array-%26-hashing/1.two-sum.js) | $${\color{#00af9b}Easy}$$ |
+| [217. Contains Duplicate](https://leetcode.com/problemsa/contains-duplicate) | [✔️](https://github.com/danizrafidz/Leetcode/blob/main/dsa1-array-%26-hashing/217.contains-duplicate.js) | $${\color{#00af9b}Easy}$$ |
+| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram) | [✔️](https://github.com/danizrafidz/Leetcode/blob/main/dsa1-array-%26-hashing/242.valid-anagram.js) | $${\color{#00af9b}Easy}$$ |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/description) | [✔️](https://github.com/danizrafidz/Leetcode/blob/main/dsa1-array-%26-hashing/1.two-sum.js) | $${\color{#00af9b}Easy}$$ |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams) | [❌](https://github.com/danizrafidz/Leetcode/blob/main/dsa1-array-%26-hashing/49.group-anagrams.js) | $${\color{#fcc600}Medium}$$ |
-| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [❌](https://github.com/danizrafidz/Leetcode/blob/main/dsa1-array-%26-hashing/347.top-k-frequent-elements.js) | $${\color{#fcc600}Medium}$$ |
+| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | [⌛️](https://github.com/danizrafidz/Leetcode/blob/main/dsa1-array-%26-hashing/347.top-k-frequent-elements.js) | $${\color{#fcc600}Medium}$$ |
 | [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) | [❌](https://github.com/danizrafidz/Leetcode/blob/main/dsa1-array-%26-hashing/271.encode-and-decode-strings.js) | $${\color{#fcc600}Medium}$$ |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [❌](https://github.com/danizrafidz/Leetcode/blob/main/dsa1-array-%26-hashing/238.product-of-array-except-self.js) | $${\color{#fcc600}Medium}$$ |
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [❌](https://github.com/danizrafidz/Leetcode/blob/main/dsa1-array-%26-hashing/36.valid-sudoku.js) | $${\color{#fcc600}Medium}$$ |
