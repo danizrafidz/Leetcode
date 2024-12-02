@@ -10,7 +10,7 @@
 
 | Problem | Solution | Difficulty |
 | ------------- |:-------------:| -----:|
-| [217. Contains Duplicate](https://leetcode.com/problemsa/contains-duplicate) | [✔️](https://github.com/danizrafidz/Leetcode/blob/main/dsa1-array-%26-hashing/217.contains-duplicate.js) | $${\color{#00af9b}Easy}$$ |
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [✔️](https://github.com/danizrafidz/Leetcode/blob/main/dsa1-array-%26-hashing/217.contains-duplicate.js) | $${\color{#00af9b}Easy}$$ |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram) | [✔️](https://github.com/danizrafidz/Leetcode/blob/main/dsa1-array-%26-hashing/242.valid-anagram.js) | $${\color{#00af9b}Easy}$$ |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/description) | [✔️](https://github.com/danizrafidz/Leetcode/blob/main/dsa1-array-%26-hashing/1.two-sum.js) | $${\color{#00af9b}Easy}$$ |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams) | [❌](https://github.com/danizrafidz/Leetcode/blob/main/dsa1-array-%26-hashing/49.group-anagrams.js) | $${\color{#fcc600}Medium}$$ |
